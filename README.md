@@ -7,7 +7,7 @@
 - Web viewer (if applicable)
 
 ## Screenshots / GIF
-![Screenshot](C:\Users\HPvns\AndroidStudioProjects\MyAppllication\res\screenshot)
+![Screenshot]()
 
 ## Setup Instructions
 1. Clone the repository
