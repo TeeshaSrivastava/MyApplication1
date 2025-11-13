@@ -7,7 +7,7 @@
 - Web viewer (if applicable)
 
 ## Screenshots / GIF
-![Screenshot]()
+![Screenshot](https://github.com/TeeshaSrivastava/MyApplication1/blob/master/res/screenshots/Screenshot%20(67).png)
 
 ## Setup Instructions
 1. Clone the repository
